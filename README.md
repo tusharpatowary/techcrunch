@@ -43,4 +43,4 @@ This is a demo practice web page for TechCrunch, showcasing various sections and
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:tusharpatowary/techcrunch.git
+   git clone https://github.com/tusharpatowary/techcrunch.git
